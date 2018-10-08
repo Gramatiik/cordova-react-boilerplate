@@ -20,5 +20,4 @@
     </platform>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <hook src="scripts/before_prepare.js" type="before_prepare" />
-    <engine name="browser" spec="^5.0.4" />
 </widget>
